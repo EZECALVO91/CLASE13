@@ -9,8 +9,8 @@
     "patente": "APL123",
     "vendido": false
 },{
-    "marca":"Toyota",
-    "modelo": "Corolla",
+    "marca":"Chevrolet",
+    "modelo": "Corsa",
     "precio": 150000,
     "km": 0, 
     "color": "Blanco",

@@ -4,3 +4,5 @@ function leerLista() {
     const array = JSON.parse(json);
     return array;
   }
+
+console.log(leerLista());
